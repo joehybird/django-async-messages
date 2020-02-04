@@ -1,0 +1,6 @@
+[run]
+source = async_messages
+branch = 1
+
+[report]
+omit = *tests*

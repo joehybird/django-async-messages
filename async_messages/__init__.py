@@ -1,5 +1,5 @@
-from django.core.cache import cache
 from django.contrib.messages import constants
+from django.core.cache import cache
 
 
 class AsyncMessageException(Exception):
