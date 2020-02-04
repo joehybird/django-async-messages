@@ -125,8 +125,16 @@ MIT_
 Changelog
 =========
 
+0.5.0
+-----
+
+* Support for Django 2.2 & 3.0
+* Code cleanup
+* Add linting & coverage
+
 0.4.1
 -----
+
 * Improvements to Django 2+ and Python 3+ support
 
 0.4.0
